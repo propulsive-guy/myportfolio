@@ -339,7 +339,7 @@ function PortfolioOverlay({ section, setSection, onClose }) {
       </div>
 
       <div className="achievement-card">
-        <img src="/IEEE2.png" alt="IEEE Chairperson" className="achievement-image" />
+        <img src="/ieee2.png" alt="IEEE Chairperson" className="achievement-image" />
         <div className="achievement-content">
           <h3>IEEE Computer Society Chairperson</h3>
           <p>YCCE</p>
